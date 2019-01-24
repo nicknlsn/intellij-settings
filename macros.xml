@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="gulp dev and update resources">
+      <action id="RunJsbtTask" />
+      <shortuct text="ENTER" />
+      <action id="javaee.UpdateRunningApplication" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
